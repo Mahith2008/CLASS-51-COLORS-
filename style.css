@@ -1,0 +1,57 @@
+
+         h1{
+
+            color : red
+         }
+
+        /* *{
+
+            border : solid
+         }*/
+
+.header{
+
+    background-color : aquamarine;
+    display : flex;
+    justify-content: space-between;
+}
+
+.grid{
+
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+    display: flex;
+    justify-content : center;
+}
+
+body{
+
+    background-color: #808080;
+}
+
+h1{
+
+     font-style:oblique;
+     color : #312CFF;
+     margin :2px;
+     text-align: center;
+     padding: 13px;
+
+}
+
+.oval{
+
+    width :150px;
+    height :75px;
+    border-radius: 50%;
+    background-color: rgb(229, 255, 0);
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
